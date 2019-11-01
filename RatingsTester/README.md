@@ -1,0 +1,1 @@
+This script emulates a rating engine and requires valid XML and Python/Jython ratings scripts to work.
